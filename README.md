@@ -93,3 +93,16 @@ Structured data is easy to query and analyze due to its fixed schema.
 Semi-structured data provides flexibility but requires parsing before analysis.
 
 Unstructured data lacks a defined format and needs additional processing for analytics.
+
+Screenshorts
+
+<img width="1719" height="622" alt="Screenshot 2026-01-24 151025" src="https://github.com/user-attachments/assets/44dd47da-3db1-4b1c-b3e6-c62a11a27960" />
+<img width="1593" height="423" alt="Screenshot 2026-01-24 151040" src="https://github.com/user-attachments/assets/26d94ac8-4658-4f2c-86a1-5f70ecf061b3" />
+<img width="922" height="234" alt="Screenshot 2026-01-24 151107" src="https://github.com/user-attachments/assets/58bdccbe-7655-4929-b510-cc8eaa356fdd" />
+<img width="1642" height="329" alt="Screenshot 2026-01-24 151119" src="https://github.com/user-attachments/assets/e838ddcb-7dd3-4956-a93d-c8cfcf7549a3" />
+<img width="1670" height="324" alt="Screenshot 2026-01-24 153020" src="https://github.com/user-attachments/assets/f1d78a8d-41b5-4521-9647-03d91e394550" />
+
+
+
+
+
